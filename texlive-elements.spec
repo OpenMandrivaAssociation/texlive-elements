@@ -1,6 +1,6 @@
 Name:		texlive-elements
 Version:	61792
-Release:	1
+Release:	2
 Summary:	Provides properties of chemical elements
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/elements
