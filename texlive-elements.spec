@@ -3,7 +3,7 @@ Version:	61792
 Release:	2
 Summary:	Provides properties of chemical elements
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/elements
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/elements
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/elements.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/elements.doc.r%{version}.tar.xz
